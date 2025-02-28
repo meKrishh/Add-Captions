@@ -3,7 +3,7 @@
 Installation
 
 Clone the repository and navigate to the project folder:
-git clone https://github.com/your-username/add-captions.git
+git clone https://github.com/meKrishh/Add-Captions.git
 cd add-captions
 
 Install the dependencies:
